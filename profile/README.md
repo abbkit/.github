@@ -5,7 +5,7 @@
 这是IT技术交流的地方，主要关注各种编程语言和存储
 ## abbkit核心项目
 * 柠檬存储 https://github.com/abbkit/lemon
-* 网站系统 https://github.com/abbkit/blog
+* 爱宝宝计算机网站代码 https://github.com/abbkit/blog
 * 人脸识别 https://github.com/abbkit/face
 
 ## 联系方式

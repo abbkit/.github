@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 欢迎来到这里，希望和大家有更多的交流，你也可以访问[爱宝宝计算机](http://abbkit.com/)  获得更多的信息
-## abbkit组织是什么?
+## abbkit是什么?
 这是IT技术交流的地方，主要关注各种编程语言和存储
 ## abbkit核心项目
 * 柠檬存储 https://github.com/abbkit/lemon
